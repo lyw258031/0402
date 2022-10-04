@@ -1,4 +1,4 @@
-public class YanghuiSanjiao {
+public class Triangle{
     public static void main(String[] args) {
         //1、声明二维数组，动态初始化
         int[][] yH = new int [10][];
